@@ -1,4 +1,3 @@
 name: Ananyananda
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-avatar: https://raw.githubusercontent.com/ananyananda/jekyll-now/master/images/jekyll-logo.png
