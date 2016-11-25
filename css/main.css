@@ -12,6 +12,9 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+element.style {
+    background-image: url(img/home-bg.jpg);
+}
 a {
     text-decoration: none;
     color: #999;
