@@ -1,6 +1,10 @@
 body {
     margin: 60px auto;
     width: 70%;
+    
+    background-image: url("img/home-bg");
+    background-color: #cccccc;
+
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
